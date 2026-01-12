@@ -20,7 +20,7 @@
   ],
   "devDependencies": {
     "electron": "~1.6.2",
-    "electron-builder": "^20.31.2",
+    "electron-builder": "^26.0.12",
     "electron-installer-dmg": "^2.0.0",
     "mocha": "^5.2.0"
   },
